@@ -1,0 +1,204 @@
+{
+  "dates": ["6月30日", "7月1日", "7月2日", "7月3日", "7月4日", "7月7日", "7月8日", "7月9日", "7月10日"],
+  "classTable": [
+    {
+      "timePeriod": "上午8:40 - 10:10",
+      "classes": {
+        "6月30日": null,
+        "7月1日": {
+          "name": "Java",
+          "color": "lightcoral",
+          "detail": {
+            "location": "E402",
+            "courseName": "Java",
+            "examMethod": "机考"
+          }
+        },
+        "7月2日": null,
+        "7月3日": null,
+        "7月4日": null,
+        "7月7日": {
+          "name": "数据库技术A",
+          "color": "deepskyblue",
+          "detail": {
+            "location": "E402",
+            "courseName": "数据库技术A",
+            "examMethod": "机考"
+          }
+        },
+        "7月8日": null,
+        "7月9日": {
+          "name": "软件工程",
+          "color": "indianred",
+          "detail": {
+            "location": "E204",
+            "courseName": "软件工程",
+            "examMethod": "机考"
+          }
+        },
+        "7月10日": null
+      }
+    },
+    {
+      "timePeriod": "上午10:20 - 11:50",
+      "classes": {
+        "6月30日": {
+          "name": "Web应用技术",
+          "color": "lightblue",
+          "detail": {
+            "location": "E307",
+            "courseName": "Web应用技术",
+            "examMethod": "实操"
+          }
+        },
+        "7月1日": {
+          "name": "数据结构",
+          "color": "dodgerblue",
+          "detail": {
+            "location": "B401",
+            "courseName": "数据结构",
+            "examMethod": "考试"
+          }
+        },
+        "7月2日": null,
+        "7月3日": null,
+        "7月4日": {
+          "name": "改革开放史",
+          "color": "lightsalmon",
+          "detail": {
+            "location": "Z101",
+            "courseName": "改革开放史",
+            "examMethod": "考试"
+          }
+        },
+        "7月7日": null,
+        "7月8日": null,
+        "7月9日": null,
+        "7月10日": null
+      }
+    },
+    {
+      "timePeriod": "下午14:30 - 16:00",
+      "classes": {
+        "6月30日": {
+          "name": "软件测试",
+          "color": "peachpuff",
+          "detail": {
+            "location": "E315",
+            "courseName": "软件测试",
+            "examMethod": "机考"
+          }
+        },
+        "7月1日": null,
+        "7月2日": null,
+        "7月3日": {
+          "name": "毛概",
+          "color": "orangered",
+          "detail": {
+            "location": "E402",
+            "courseName": "毛概",
+            "examMethod": "机考"
+          }
+        },
+        "7月4日": null,
+        "7月7日": null,
+        "7月8日": {
+          "name": "移动应用开发",
+          "color": "skyblue",
+          "detail": {
+            "location": "E213",
+            "courseName": "移动应用开发",
+            "examMethod": "机考"
+          }
+        },
+        "7月9日": null,
+        "7月10日": {
+          "name": "程序设计基础",
+          "color": "palegreen",
+          "detail": {
+            "location": "E309",
+            "courseName": "程序设计基础",
+            "examMethod": "机考"
+          }
+        }
+      }
+    },
+    {
+      "timePeriod": "下午16:15 - 17:45",
+      "classes": {
+        "6月30日": null,
+        "6月31日": null,
+        "7月1日": null,
+        "7月2日": null,
+        "7月3日": null,
+        "7月4日": null,
+        "7月7日": {
+          "name": "Python面向对象",
+          "color": "mediumpurple",
+          "detail": {
+            "location": "E404",
+            "courseName": "Python面向对象",
+            "examMethod": "机考"
+          }
+        },
+        "7月8日": {
+          "name": "军事理论",
+          "color": "tomato",
+          "detail": {
+            "location": "E310",
+            "courseName": "军事理论",
+            "examMethod": "机考"
+          }
+        },
+        "7月9日":  {
+          "name": "道德与法治",
+          "color": "lightgreen",
+          "detail": {
+            "location": "E305",
+            "courseName": "道德与法治",
+            "examMethod": "机考"
+          }
+        },
+        "7月10日": null
+      }
+    },
+    {
+      "timePeriod": "晚上19:00 - 20:30",
+      "classes": {
+        "6月30日": null,
+        "7月1日": {
+          "name": "Web应用技术",
+          "color": "lightblue",
+          "detail": {
+            "location": "E307",
+            "courseName": "Web应用技术",
+            "examMethod": "理论"
+          }
+        },
+        "7月2日": null,
+        "7月3日": {
+          "name": "高等数学",
+          "color": "skyblue",
+          "detail": {
+            "location": "B506",
+            "courseName": "高等数学",
+            "examMethod": "考试"
+          }
+        },
+        "7月4日": {
+          "name": "大学英语一",
+          "color": "orange",
+          "detail": {
+            "location": "E304",
+            "courseName": "大学英语一",
+            "examMethod": "机考"
+          }
+        },
+        "7月7日": null,
+        "7月8日": null,
+        "7月9日": null,
+        "7月10日": null
+      }
+    }
+  ]
+}
