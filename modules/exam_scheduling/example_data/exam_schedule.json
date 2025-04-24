@@ -1,0 +1,719 @@
+{
+    "classes": [
+        {
+            "classId": "22计算机应用技术2班",
+            "exams": [
+                {
+                    "examId": "考试1",
+                    "examName": "PHP动态网站项目开发",
+                    "time": "7月8日 3-4节",
+                    "classroom": "F302",
+                    "teachers": [
+                        "成永常",
+                        "陈亚芝"
+                    ]
+                },
+                {
+                    "examId": "考试2",
+                    "examName": "LINUX操作系统",
+                    "time": "7月3日 1-2节",
+                    "classroom": "F406",
+                    "teachers": [
+                        "王伯栋-达内",
+                        "徐健"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22计算机应用技术3班",
+            "exams": [
+                {
+                    "examId": "考试3",
+                    "examName": "PHP动态网站项目开发",
+                    "time": "7月10日 1-2节",
+                    "classroom": "E305",
+                    "teachers": [
+                        "成永常",
+                        "郑东"
+                    ]
+                },
+                {
+                    "examId": "考试4",
+                    "examName": "LINUX操作系统",
+                    "time": "7月3日 7-8节",
+                    "classroom": "F310",
+                    "teachers": [
+                        "王伯栋-达内",
+                        "卢益博"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22计算机应用技术4班",
+            "exams": [
+                {
+                    "examId": "考试5",
+                    "examName": "UI设计",
+                    "time": "7月10日 1-2节",
+                    "classroom": "E502",
+                    "teachers": [
+                        "王伯栋-达内",
+                        "陈宇山"
+                    ]
+                },
+                {
+                    "examId": "考试6",
+                    "examName": "交互设计",
+                    "time": "7月8日 7-8节",
+                    "classroom": "E504",
+                    "teachers": [
+                        "陈宇山",
+                        "贾峰"
+                    ]
+                },
+                {
+                    "examId": "考试7",
+                    "examName": "动画制作",
+                    "time": "7月8日 5-6节",
+                    "classroom": "E404",
+                    "teachers": [
+                        "李小雨",
+                        "陈宇山"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22计算机网络技术1班",
+            "exams": [
+                {
+                    "examId": "考试8",
+                    "examName": "综合布线实训",
+                    "time": "7月4日 3-4节",
+                    "classroom": "F312",
+                    "teachers": [
+                        "叶昆权",
+                        "陈宇山"
+                    ]
+                },
+                {
+                    "examId": "考试9",
+                    "examName": "云技术架构与服务",
+                    "time": "7月7日 7-8节",
+                    "classroom": "E510",
+                    "teachers": [
+                        "王良明",
+                        "肖故"
+                    ]
+                },
+                {
+                    "examId": "考试10",
+                    "examName": "数据存储与管理技术",
+                    "time": "7月8日 7-8节",
+                    "classroom": "F309",
+                    "teachers": [
+                        "陈云",
+                        "付军"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22计算机网络技术2班",
+            "exams": [
+                {
+                    "examId": "考试11",
+                    "examName": "综合布线实训",
+                    "time": "7月8日 3-4节",
+                    "classroom": "E301",
+                    "teachers": [
+                        "虫之教育陈炼",
+                        "卢益博"
+                    ]
+                },
+                {
+                    "examId": "考试12",
+                    "examName": "云技术架构与服务",
+                    "time": "7月7日 1-2节",
+                    "classroom": "E404",
+                    "teachers": [
+                        "王良明",
+                        "卢益博"
+                    ]
+                },
+                {
+                    "examId": "考试13",
+                    "examName": "数据存储与管理技术",
+                    "time": "7月4日 7-8节",
+                    "classroom": "E506",
+                    "teachers": [
+                        "付军",
+                        "崔海燕"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22计算机网络技术3班",
+            "exams": [
+                {
+                    "examId": "考试14",
+                    "examName": "综合布线实训",
+                    "time": "7月4日 9-10节",
+                    "classroom": "F303",
+                    "teachers": [
+                        "叶昆权",
+                        "汪卫星"
+                    ]
+                },
+                {
+                    "examId": "考试15",
+                    "examName": "云技术架构与服务",
+                    "time": "7月4日 1-2节",
+                    "classroom": "E304",
+                    "teachers": [
+                        "陈云",
+                        "兰海英"
+                    ]
+                },
+                {
+                    "examId": "考试16",
+                    "examName": "数据存储与管理技术",
+                    "time": "6月30日 5-6节",
+                    "classroom": "E309",
+                    "teachers": [
+                        "付军",
+                        "邓哲林"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22计算机网络技术4班",
+            "exams": [
+                {
+                    "examId": "考试17",
+                    "examName": "综合布线实训",
+                    "time": "7月4日 5-6节",
+                    "classroom": "E305",
+                    "teachers": [
+                        "叶昆权",
+                        "徐健"
+                    ]
+                },
+                {
+                    "examId": "考试18",
+                    "examName": "云技术架构与服务",
+                    "time": "7月3日 1-2节",
+                    "classroom": "E405",
+                    "teachers": [
+                        "陈云",
+                        "薛云兰"
+                    ]
+                },
+                {
+                    "examId": "考试19",
+                    "examName": "数据存储与管理技术",
+                    "time": "7月4日 9-10节",
+                    "classroom": "E311",
+                    "teachers": [
+                        "付军",
+                        "邓哲林"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22软件技术1班",
+            "exams": [
+                {
+                    "examId": "考试20",
+                    "examName": "移动平台软件开发及实训",
+                    "time": "7月10日 9-10节",
+                    "classroom": "F303",
+                    "teachers": [
+                        "肖故",
+                        "杨媛媛"
+                    ]
+                },
+                {
+                    "examId": "考试21",
+                    "examName": "基于框架的应用系统开发及实训",
+                    "time": "6月30日 1-2节",
+                    "classroom": "F411",
+                    "teachers": [
+                        "兰丽",
+                        "肖故"
+                    ]
+                },
+                {
+                    "examId": "考试22",
+                    "examName": "WEB客户端开发",
+                    "time": "7月7日 3-4节",
+                    "classroom": "E302",
+                    "teachers": [
+                        "贾峰",
+                        "卢益博"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22软件技术2班",
+            "exams": [
+                {
+                    "examId": "考试23",
+                    "examName": "移动平台软件开发及实训",
+                    "time": "7月7日 3-4节",
+                    "classroom": "F401",
+                    "teachers": [
+                        "方少群",
+                        "成永常"
+                    ]
+                },
+                {
+                    "examId": "考试24",
+                    "examName": "基于框架的应用系统开发及实训",
+                    "time": "7月8日 9-10节",
+                    "classroom": "E502",
+                    "teachers": [
+                        "薛云兰",
+                        "兰海英"
+                    ]
+                },
+                {
+                    "examId": "考试25",
+                    "examName": "WEB客户端开发",
+                    "time": "7月2日 3-4节",
+                    "classroom": "E306",
+                    "teachers": [
+                        "崔海燕",
+                        "张丽英"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22软件技术3班",
+            "exams": [
+                {
+                    "examId": "考试26",
+                    "examName": "移动平台软件开发及实训",
+                    "time": "7月9日 7-8节",
+                    "classroom": "F310",
+                    "teachers": [
+                        "张军平",
+                        "万红运"
+                    ]
+                },
+                {
+                    "examId": "考试27",
+                    "examName": "基于框架的应用系统开发及实训",
+                    "time": "7月8日 1-2节",
+                    "classroom": "E305",
+                    "teachers": [
+                        "龚霖迪",
+                        "李可"
+                    ]
+                },
+                {
+                    "examId": "考试28",
+                    "examName": "WEB客户端开发",
+                    "time": "7月8日 5-6节",
+                    "classroom": "E502",
+                    "teachers": [
+                        "王伯栋-达内",
+                        "付军"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "22软件技术4班",
+            "exams": [
+                {
+                    "examId": "考试29",
+                    "examName": "移动平台软件开发及实训",
+                    "time": "7月1日 9-10节",
+                    "classroom": "E509",
+                    "teachers": [
+                        "张军平",
+                        "王良明"
+                    ]
+                },
+                {
+                    "examId": "考试30",
+                    "examName": "基于框架的应用系统开发及实训",
+                    "time": "6月30日 9-10节",
+                    "classroom": "F410",
+                    "teachers": [
+                        "龚霖迪",
+                        "方少群"
+                    ]
+                },
+                {
+                    "examId": "考试31",
+                    "examName": "WEB客户端开发",
+                    "time": "7月9日 5-6节",
+                    "classroom": "E412",
+                    "teachers": [
+                        "方少群",
+                        "虫之教育陈炼"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23人工智能技术应用1班",
+            "exams": [
+                {
+                    "examId": "考试32",
+                    "examName": "数据库技术A",
+                    "time": "7月8日 3-4节",
+                    "classroom": "F304",
+                    "teachers": [
+                        "李可",
+                        "张军平"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23人工智能技术应用2班",
+            "exams": [
+                {
+                    "examId": "考试33",
+                    "examName": "数据库技术A",
+                    "time": "7月10日 9-10节",
+                    "classroom": "E305",
+                    "teachers": [
+                        "兰海英",
+                        "薛云兰"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23人工智能技术应用3班",
+            "exams": [
+                {
+                    "examId": "考试34",
+                    "examName": "数据库技术A",
+                    "time": "7月3日 7-8节",
+                    "classroom": "E406",
+                    "teachers": [
+                        "杨媛媛",
+                        "徐健"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23计算机应用技术1班（三二分段）",
+            "exams": [
+                {
+                    "examId": "考试35",
+                    "examName": "数字三维动画技术",
+                    "time": "7月4日 1-2节",
+                    "classroom": "E402",
+                    "teachers": [
+                        "邓哲林",
+                        "贾峰"
+                    ]
+                },
+                {
+                    "examId": "考试36",
+                    "examName": "数码摄影与摄像",
+                    "time": "7月10日 3-4节",
+                    "classroom": "F308",
+                    "teachers": [
+                        "陈亚芝",
+                        "虫之教育陈炼"
+                    ]
+                },
+                {
+                    "examId": "考试37",
+                    "examName": "交互设计",
+                    "time": "7月9日 9-10节",
+                    "classroom": "F309",
+                    "teachers": [
+                        "陈宇山",
+                        "曹伟"
+                    ]
+                },
+                {
+                    "examId": "考试38",
+                    "examName": "动画制作",
+                    "time": "7月3日 1-2节",
+                    "classroom": "E512",
+                    "teachers": [
+                        "李小雨",
+                        "兰海英"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23计算机应用技术2班",
+            "exams": [
+                {
+                    "examId": "考试39",
+                    "examName": "网页制作技术",
+                    "time": "7月1日 3-4节",
+                    "classroom": "F309",
+                    "teachers": [
+                        "王冬星",
+                        "李小雨"
+                    ]
+                },
+                {
+                    "examId": "考试40",
+                    "examName": "数据库技术A",
+                    "time": "7月1日 9-10节",
+                    "classroom": "F302",
+                    "teachers": [
+                        "杨媛媛",
+                        "陈云"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23计算机应用技术3班",
+            "exams": [
+                {
+                    "examId": "考试41",
+                    "examName": "网页制作技术",
+                    "time": "7月2日 1-2节",
+                    "classroom": "F409",
+                    "teachers": [
+                        "杨媛媛",
+                        "卢益博"
+                    ]
+                },
+                {
+                    "examId": "考试42",
+                    "examName": "数据库技术A",
+                    "time": "7月7日 5-6节",
+                    "classroom": "F405",
+                    "teachers": [
+                        "曹伟",
+                        "卢益博"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23计算机网络技术1班",
+            "exams": [
+                {
+                    "examId": "考试43",
+                    "examName": "数据库技术A",
+                    "time": "7月7日 9-10节",
+                    "classroom": "E507",
+                    "teachers": [
+                        "兰海英",
+                        "刘小飞"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23计算机网络技术2班",
+            "exams": [
+                {
+                    "examId": "考试44",
+                    "examName": "数据库技术A",
+                    "time": "7月1日 1-2节",
+                    "classroom": "E508",
+                    "teachers": [
+                        "郑东",
+                        "邹国霞"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23软件技术1班",
+            "exams": [
+                {
+                    "examId": "考试45",
+                    "examName": "人工智能应用基础",
+                    "time": "7月7日 7-8节",
+                    "classroom": "E301",
+                    "teachers": [
+                        "汪卫星",
+                        "刘小飞"
+                    ]
+                },
+                {
+                    "examId": "考试46",
+                    "examName": "网页制作技术",
+                    "time": "7月1日 9-10节",
+                    "classroom": "E404",
+                    "teachers": [
+                        "张丽英",
+                        "虫之教育陈炼"
+                    ]
+                },
+                {
+                    "examId": "考试47",
+                    "examName": "数据库技术A",
+                    "time": "7月9日 1-2节",
+                    "classroom": "F309",
+                    "teachers": [
+                        "肖小红",
+                        "曹伟"
+                    ]
+                },
+                {
+                    "examId": "考试48",
+                    "examName": "计算机网络应用技术",
+                    "time": "7月9日 1-2节",
+                    "classroom": "E504",
+                    "teachers": [
+                        "徐健",
+                        "李小雨"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23软件技术2班",
+            "exams": [
+                {
+                    "examId": "考试49",
+                    "examName": "人工智能应用基础",
+                    "time": "7月1日 9-10节",
+                    "classroom": "E309",
+                    "teachers": [
+                        "卢益博",
+                        "邹国霞"
+                    ]
+                },
+                {
+                    "examId": "考试50",
+                    "examName": "网页制作技术",
+                    "time": "7月4日 9-10节",
+                    "classroom": "F304",
+                    "teachers": [
+                        "邹国霞",
+                        "王良明"
+                    ]
+                },
+                {
+                    "examId": "考试51",
+                    "examName": "数据库技术A",
+                    "time": "7月3日 7-8节",
+                    "classroom": "F309",
+                    "teachers": [
+                        "肖小红",
+                        "方少群"
+                    ]
+                },
+                {
+                    "examId": "考试52",
+                    "examName": "计算机网络应用技术",
+                    "time": "6月30日 1-2节",
+                    "classroom": "E503",
+                    "teachers": [
+                        "薛云兰",
+                        "刘小飞"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23软件技术3班",
+            "exams": [
+                {
+                    "examId": "考试53",
+                    "examName": "人工智能应用基础",
+                    "time": "7月2日 9-10节",
+                    "classroom": "F410",
+                    "teachers": [
+                        "卢益博",
+                        "龚霖迪"
+                    ]
+                },
+                {
+                    "examId": "考试54",
+                    "examName": "网页制作技术",
+                    "time": "7月10日 9-10节",
+                    "classroom": "E303",
+                    "teachers": [
+                        "刘小飞",
+                        "方少群"
+                    ]
+                },
+                {
+                    "examId": "考试55",
+                    "examName": "数据库技术A",
+                    "time": "7月9日 5-6节",
+                    "classroom": "F311",
+                    "teachers": [
+                        "郑东",
+                        "曹伟"
+                    ]
+                },
+                {
+                    "examId": "考试56",
+                    "examName": "计算机网络应用技术",
+                    "time": "7月3日 3-4节",
+                    "classroom": "F307",
+                    "teachers": [
+                        "徐健",
+                        "兰海英"
+                    ]
+                }
+            ]
+        },
+        {
+            "classId": "23软件技术4班",
+            "exams": [
+                {
+                    "examId": "考试57",
+                    "examName": "人工智能应用基础",
+                    "time": "7月2日 5-6节",
+                    "classroom": "E402",
+                    "teachers": [
+                        "卢益博",
+                        "邓哲林"
+                    ]
+                },
+                {
+                    "examId": "考试58",
+                    "examName": "网页制作技术",
+                    "time": "6月30日 5-6节",
+                    "classroom": "E511",
+                    "teachers": [
+                        "邹国霞",
+                        "杨媛媛"
+                    ]
+                },
+                {
+                    "examId": "考试59",
+                    "examName": "数据库技术A",
+                    "time": "7月10日 5-6节",
+                    "classroom": "E507",
+                    "teachers": [
+                        "兰丽",
+                        "付军"
+                    ]
+                },
+                {
+                    "examId": "考试60",
+                    "examName": "计算机网络应用技术",
+                    "time": "6月30日 1-2节",
+                    "classroom": "E412",
+                    "teachers": [
+                        "万红运",
+                        "兰海英"
+                    ]
+                }
+            ]
+        }
+    ]
+}
